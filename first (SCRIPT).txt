@@ -1,0 +1,11 @@
+<HTML>
+<BODY>
+<TITLE>WHITENER.COM</TITLE>
+
+<H1>WEBSITES</H1>
+<P1>a website is A a place connected to the Internet, where a company, organization, etc. puts information that can be found on the World Wide Web</P1>
+
+<A HREF="https://www.w3schools.com/">LEARN CODING!</A>
+
+</BODY>
+</HTML>
